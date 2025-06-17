@@ -18952,8 +18952,7 @@ m.toString
 k.toString
 j=Math.max(m,k)
 l.toString
-a=new A.au(j,Math.max(l,p))
-p=a
+p=new A.au(j,Math.max(l,p))
 break $label0$0}p=d}return p},
 aTk(a,b,c,d,e,f,g,h,i){var s,r=null,q=A.a8(),p=J.aFV(4,t.iy)
 for(s=0;s<4;++s)p[s]=new A.ml(r,B.aI,B.Z,B.I.j(0,B.I)?new A.eB(1):B.I,r,r,r,r,B.ai,r)
@@ -27933,7 +27932,7 @@ var $async$az3=A.I(function(a,b){if(a===1)return A.J(b,r)
 while(true)switch(s){case 0:if($.a5==null)A.aIE()
 $.a5.toString
 if($.Ke.b!==$.Ke)A.ac(A.aG2($.Ke.a))
-$.Ke.b="0.0.5"
+$.Ke.b="0.0.6"
 s=2
 return A.Q(A.a7Q(A.aPF()),$async$az3)
 case 2:if($.a5==null)A.aIE()
@@ -100969,3 +100968,4 @@ return}var s=document.scripts
 function onLoad(b){for(var q=0;q<s.length;++q){s[q].removeEventListener("load",onLoad,false)}a(b.target)}for(var r=0;r<s.length;++r){s[r].addEventListener("load",onLoad,false)}})(function(a){v.currentScript=a
 var s=A.az2
 if(typeof dartMainRunner==="function"){dartMainRunner(s,[])}else{s([])}})})()
+//# sourceMappingURL=main.dart.js.map
